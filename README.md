@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tIrRqGqAqVi5LqxeAT05bXqILyhBTD0z/view?usp=sharing](https://drive.google.com/file/d/1tIrRqGqAqVi5LqxeAT05bXqILyhBTD0z/view?usp=sharing)
 
-- 📂 PortFolio https://parul-jamwal-portfolio.vercel.app
+- 📂 PortFolio https://parul-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
