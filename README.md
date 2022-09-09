@@ -3,7 +3,7 @@
 
 <div width="80%" margin="auto" >
 <h3>I'm a passionate learner who's always willing to explore new technology and applied to solve real-life problems, working on web devlopment, Data Structures and Algorithms.</h3>
-  <img  height="6px" src="https://user-images.githubusercontent.com/96183163/189266579-508224d8-692c-4e35-aa8d-6bdd59c10e0a.gif" width="100%" />
+
 </div>
 
 
