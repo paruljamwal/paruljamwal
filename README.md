@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img  src="https://user-images.githubusercontent.com/96183163/189265308-c4ce98c4-e34c-457f-aaed-318a283c672a.gif" width="70px"  />  , I'm Parul Jamwal</h1>
-<img  height="5px" src="https://user-images.githubusercontent.com/96183163/189266439-90812d76-ed56-43b2-8b81-041e87940c73.gif" width="100%" />
+<img  height="5px" src="https://user-images.githubusercontent.com/96183163/189266579-508224d8-692c-4e35-aa8d-6bdd59c10e0a.gif" width="100%" />
 <div width="80%" margin="auto" >
 <h3>I'm a passionate learner who's always willing to explore new technology and applied to solve real-life problems, working on web devlopment, Data Structures and Algorithms.</h3>
 </div>
+
 
 <p align="center">
 <img  align="center" width="100%" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"></p>
