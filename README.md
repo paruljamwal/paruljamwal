@@ -38,9 +38,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paruljamwal&show_icons=true&locale=en" alt="paruljamwal" /></p>
 
-<img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" alt="snack" />
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paruljamwal&" alt="paruljamwal" /></p>
+
+<img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" alt="snack" />
 
 <img  height="6px" src="https://user-images.githubusercontent.com/96183163/189266579-508224d8-692c-4e35-aa8d-6bdd59c10e0a.gif" width="100%" />
