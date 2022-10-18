@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **paruljamwal46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tIrRqGqAqVi5LqxeAT05bXqILyhBTD0z/view?usp=sharing](https://drive.google.com/file/d/1tIrRqGqAqVi5LqxeAT05bXqILyhBTD0z/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1tIrRqGqAqVi5LqxeAT05bXqILyhBTD0z/view?usp=sharing
 
 - 📂 PortFolio https://parul-portfolio.vercel.app/
 
