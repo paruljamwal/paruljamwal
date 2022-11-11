@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Animations & Transitions** 
 
 - 📫 How to reach me **paruljamwal46@gmail.com**
 
