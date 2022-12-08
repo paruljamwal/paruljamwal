@@ -39,33 +39,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://reactorg.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="aws" width="40" height="40"/> </a>
-  
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Express%2C_Inc._logo.svg/1280px-Express%2C_Inc._logo.svg.png" alt="express" width="40" height="40"/> </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="git" width="40" height="40"/> </a>
-  
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXmPPcjk_Aig4CRTmZDqnwPopVxv6rfTxBZu_nNF5&s" alt="heroku" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CEk5HONs6LzbULmmHSVvJe5FdeJItvP4fea8rzTy8hlG2T6008Ylj0kSUnImmqjk9qw&usqp=CAU" alt="html5" width="40" height="40"/> </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.585533905.4346/sn,x1000-pad,1000x1000,f8f8f8.u6.jpg" alt="javascript" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongodb" width="40" height="40"/> </a>
-  
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://w3schoolcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/></a>
-  
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30oYj4Wwul71A99d_m10EsMlT14sJ6AU4rDzLsokGGCsHhJMgX2mjYYaUd2cf9H7a4T4&usqp=CAU" alt="webpack" width="40" height="40"/> </a>
-
+<p align="left"> <a href="https://reactorg.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="aws" width="40" height="40"/> </a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Express%2C_Inc._logo.svg/1280px-Express%2C_Inc._logo.svg.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXmPPcjk_Aig4CRTmZDqnwPopVxv6rfTxBZu_nNF5&s" alt="heroku" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CEk5HONs6LzbULmmHSVvJe5FdeJItvP4fea8rzTy8hlG2T6008Ylj0kSUnImmqjk9qw&usqp=CAU" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.585533905.4346/sn,x1000-pad,1000x1000,f8f8f8.u6.jpg" alt="javascript" width="40" height="40"/> 
+  </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://w3schoolcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/></a><a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30oYj4Wwul71A99d_m10EsMlT14sJ6AU4rDzLsokGGCsHhJMgX2mjYYaUd2cf9H7a4T4&usqp=CAU" alt="webpack" width="40" height="40"/> </a><a href="https://railwayapp.com" target="_blank" rel="noreferrer"> <img src="https://railway.app/brand/logotype-dark.png" alt="railway" width="40" height="40"/> </a><a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" alt="netlify" width="40" height="40"/> </a>
 
 </p>
 
