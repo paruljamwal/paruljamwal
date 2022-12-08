@@ -33,8 +33,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/parul1802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parul1802" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parul jamwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parul jamwal" height="30" width="40" /></a>
+<a href="https://twitter.com/parul1802" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parul jamwal" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwV8nuw_vji_VAaDMlhOnWSQ2DWbEW3fjWVIuhzEvI2Yi0FAzWanWJa1GeD4L5G9hOBA&usqp=CAU" alt="linkdin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
