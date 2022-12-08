@@ -7,13 +7,7 @@
 </div>
 
 
-<p align="center">
-<img  align="center" width="100%" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"></p>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paruljamwal&label=Profile%20views&color=0e75b6&style=flat" alt="paruljamwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruljamwal" alt="paruljamwal" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
@@ -28,6 +22,14 @@
 - 👉 Medium : https://medium.com/@paruljamwal2000
 
 - 👩‍💻 Netlify : https://app.netlify.com/teams/paruljamwal/overview
+
+<p align="center">
+<img  align="center" width="100%" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"></p>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paruljamwal&label=Profile%20views&color=0e75b6&style=flat" alt="paruljamwal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruljamwal" alt="paruljamwal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
