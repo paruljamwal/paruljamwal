@@ -5,7 +5,9 @@
 <h3>I'm a passionate learner who's always willing to explore new technology and applied to solve real-life problems, working on web devlopment, Data Structures and Algorithms.</h3>
 
 </div>
-
+<p align="center">
+<img  align="center" width="100%" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"></p>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 
 
@@ -23,9 +25,7 @@
 
 - 👩‍💻 Netlify : https://app.netlify.com/teams/paruljamwal/overview
 
-<p align="center">
-<img  align="center" width="100%" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif"></p>
-<h3 align="center">A passionate full stack developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paruljamwal&label=Profile%20views&color=0e75b6&style=flat" alt="paruljamwal" /> </p>
 
