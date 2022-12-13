@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Animations & Transitions** 
+- 🌱 I’m currently learning **Next.js** 
 
 - 📫 How to reach me **paruljamwal46@gmail.com**
 
