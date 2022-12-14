@@ -40,6 +40,8 @@
 
 <p align="left"> <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruljamwal" alt="paruljamwal" /></a> </p>
 
+<img src="https://camo.githubusercontent.com/98c70ede3cd9cb49abef16523049aa4bc5960bbc17860f1d6c5894d7849ad255/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76685671476b78445978416152624f5756702f67697068792e6769663f6369643d65636630356534376e3476366f6868613870353472366e36336637647130756a30673334786530786e6a70757334356b267269643d67697068792e6769662663743d67"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parul1802" target="blank"><img align="center" target="blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twitter" height="30" width="40" /></a>
