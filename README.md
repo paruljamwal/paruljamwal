@@ -43,7 +43,7 @@
 <p align="left"> <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruljamwal" alt="paruljamwal" /></a> </p>
 
 <h3> Support me </h3>
-<a href="https://www.buymeacoffee.com/paruljamwal" ></a>
+<img src="https://www.buymeacoffee.com/paruljamwal" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
