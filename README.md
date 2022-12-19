@@ -43,7 +43,7 @@
 <p align="left"> <a target="blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruljamwal" alt="paruljamwal" /></a> </p>
 
 <h3> Support me </h3>
-<a target="blank" href="https://www.buymeacoffee.com/paruljamwal"> <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__kbfquMx74C-tc5aJJshshAvO4sqI_el1w&usqp=CAU" /> </a>
+<a target="blank" href="https://www.buymeacoffee.com/paruljamwal"> <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__kbfquMx74C-tc5aJJshshAvO4sqI_el1w&usqp=CAU" alt="buy a cup of coffee" /> </a>
 
 
 <h3 align="left">Connect with me:</h3>
